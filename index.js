@@ -4,4 +4,4 @@ function test() {
 
 test()
 
-console.log("test printed")
+//console.log("test printed")
